@@ -1,0 +1,11 @@
+body{
+    background-color:aliceblue;
+}
+p{
+    font-size: 24px;
+    color:blue;
+    font-weight: bold;
+}
+.texto {
+    color:black
+}
